@@ -13,9 +13,6 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: **rajatnaik2110@gmail.com**
 <!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
-- #### Connect with me: 
-   [<img width=50px src="https://img.icons8.com/fluency/2x/instagram-new.png">](https://www.instagram.com/rajatnaik21)
-   [<img width=50px src="https://img.icons8.com/color/2x/linkedin.png">](https://www.linkedin.com/in/rajat-naik-32948b224)
 
 - #### Languages and tools:
   <p>
