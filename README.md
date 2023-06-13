@@ -6,10 +6,10 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on developing my skills
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Full Stack Web Development**
 <!-- - 👯 I’m looking to collaborate on -->
-- 🤔 I’m looking for help with **Web Development**
-- 💬 Ask me about **C, Python**
+- 🤔 I’m looking for help with **Node.js**
+- 💬 Ask me about **JavaScript, Python**
 - 📫 How to reach me: **rajatnaik2110@gmail.com**
 <!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
