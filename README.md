@@ -20,6 +20,7 @@ Here are some ideas to get you started:-->
   <img width=50px src="https://img.icons8.com/color/2x/c-programming.png">
   <img width=50px src="https://img.icons8.com/color/2x/html-5.png">
   <img width=50px src="https://img.icons8.com/color/2x/css3.png">
+  <img width=50px src="https://icons8.com/icon/108784/javascript">
  </p>
 
 
