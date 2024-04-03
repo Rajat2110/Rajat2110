@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rajat and I'm a highly motivated and enthusiastic entry-level web developer with a passion for creating dynamic and user-friendly websites.</p>
+<p align="left">My name is Rajat and I'm a highly motivated and enthusiastic web developer with a passion for creating dynamic and user-friendly web applications.</p>
 
 ###
 
@@ -10,24 +10,28 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Full Stack Web Development<br>🤔 I'm looking for help with Node.js<br>💬 Ask me about JavaScript<br>📫 How to reach me : rajatnaik2110@gmail.com</p>
+<p align="left">📚 I'm currently learning Spring Boot<br>🤔  I’m looking to collaborate on exciting projects<br>💬 Ask me about Java<br>📫 How to reach me : rajatnaik2110@gmail.com</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50" alt="Java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50" alt="React logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
 </div>
 
 ###
