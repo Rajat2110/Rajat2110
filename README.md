@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rajat and I'm a highly motivated and enthusiastic web developer with a passion for creating dynamic and user-friendly web applications.</p>
+<p align="left">Hi I'm Rajat and I am a Data Engineer with a passion for building scalable and efficient data pipelines. I work primarily with Python, Apache Spark, AWS Glue, and other AWS services to design and maintain robust data workflows in cloud environments.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Spring Boot<br>🤔  I’m looking to collaborate on exciting projects<br>💬 Ask me about Java<br>📫 How to reach me : rajatnaik2110@gmail.com</p>
+<p align="left">📚 I'm working on building exciting projects<br>💬 Ask me about Spark<br>📫 How to reach me : rajatnaik2110@gmail.com</p>
 
 ###
 
@@ -20,7 +20,10 @@
 
 <div align="left">
 
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50" alt="Java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50" alt="React logo" />
@@ -29,9 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+ 
 </div>
 
 ###
