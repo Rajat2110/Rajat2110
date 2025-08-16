@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi I'm Rajat and I am a Data Engineer with a passion for building scalable and efficient data pipelines. I work primarily with Python, Apache Spark, AWS Glue, and other AWS services to design and maintain robust data workflows in cloud environments.</p>
+<p align="left">Hi, I'm Rajat and I am a Data Engineer with a passion for building scalable and efficient data pipelines. I work primarily with Python, Apache Spark, AWS Glue, and other AWS services to design and maintain robust data workflows in cloud environments.</p>
 
 ###
 
